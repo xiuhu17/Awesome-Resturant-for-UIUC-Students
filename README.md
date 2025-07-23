@@ -1,6 +1,5 @@
 # 🍽️ Restaurant List by City
-
-## Credit: Yueming Yuan & Zhihao Wang
+#### Made By: Yueming Yuan & Zhihao Wang
 
 ## 📍 Chicago
 
