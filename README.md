@@ -1,5 +1,7 @@
 # 🍽️ Restaurant List by City
 
+## Credit: Yueming Yuan & Zhihao Wang
+
 ## 📍 Chicago
 
 1. 🇫🇷 **Avec** – Mediterranean small plates & wine 🍷  
