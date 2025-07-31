@@ -12,7 +12,8 @@
 7. 🇯🇵 **Itoki** – Contemporary Japanese cuisine  
 8. 🌊 **Valhalla** – Scandinavian-Mediterranean fusion  
 9. 🇯🇵 **牛角 (Gyu-Kaku)** – Japanese BBQ  
-10. 🇯🇵 **Izakaya Shinya** – Japanese izakaya & yakitori  
+10. 🇯🇵 **Izakaya Shinya** – Japanese izakaya & yakitori
+11. 🇹🇭 **JJ Thai** - Thai street food
 
 ---
 
